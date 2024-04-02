@@ -1,4 +1,4 @@
-name: Build Logx Package
+name: Build Gz-Template Package
 
 on:
   workflow_dispatch:
